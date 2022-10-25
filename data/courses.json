@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "C ",
+        "price": 109.95,
+        "description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.",
+        "category": "CSE",
+        "image": "https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "C++ ",
+        "price": 22.3,
+        "description": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible. Our C++ programming tutorial will guide you to learn C++ programming one step at a time.",
+        "category": "CSE",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGzKIagW3sbCBaZOWOw5z77jvfqVbFTNFWs8BwB259vCHB7DQVhpaBQdn98X5kq6_Cl8&usqp=CAU",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Python",
+        "price": 55.99,
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.",
+        "category": "CSE",
+        "image": "http://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "React",
+        "price": 15.99,
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug.",
+        "category": "CSE",
+        "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "JavaScript",
+        "price": 695,
+        "description": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
+        "category": "CSE",
+        "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Bootstraps",
+        "price": 168,
+        "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. ",
+        "category": "CSE",
+        "image": "https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]
