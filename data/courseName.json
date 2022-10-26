@@ -1,26 +1,32 @@
 [
     {
         "id": 1,
-        "title": "C "
+        "title": "C ",
+        "image": "https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png"
     },
     {
         "id": 2,
-        "title": "C++ "
+        "title": "C++ ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGzKIagW3sbCBaZOWOw5z77jvfqVbFTNFWs8BwB259vCHB7DQVhpaBQdn98X5kq6_Cl8&usqp=CAU"
     },
     {
         "id": 3,
-        "title": "Python"
+        "title": "Python",
+        "image": "http://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png"
     },
     {
         "id": 4,
-        "title": "React"
+        "title": "React",
+        "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
     },
     {
         "id": 5,
-        "title": "JavaScript"
+        "title": "JavaScript",
+        "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png"
     },
     {
         "id": 6,
-        "title": "Bootstraps"
+        "title": "Bootstraps",
+        "image": "https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png"
     }
 ]
