@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "title": "C ",
-        "image": "https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png"
+        "title": "Web development",
+        "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg"
     },
     {
         "id": 2,
-        "title": "C++ ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGzKIagW3sbCBaZOWOw5z77jvfqVbFTNFWs8BwB259vCHB7DQVhpaBQdn98X5kq6_Cl8&usqp=CAU"
+        "title": "Spreadsheet",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkGN1nyPnBFf5QT4pp9CQgei3bbGKy1SgCuTt4qemYQigcL5L4ToH9vTeb58Q8ti_Glm0&usqp=CAU"
     },
     {
         "id": 3,
-        "title": "Python",
-        "image": "http://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png"
+        "title": "Database",
+        "image": "https://www.openlogic.com/sites/default/files/styles/social_preview_image/public/image/2020-07/image-blog-sql-database.jpg?itok=fM0y3SPe"
     },
     {
         "id": 4,
-        "title": "React",
-        "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
+        "title": "Internet communications",
+        "image": "https://img.freepik.com/free-vector/internet-communication_24877-51932.jpg?w=2000"
     },
     {
         "id": 5,
-        "title": "JavaScript",
-        "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png"
+        "title": "Cyber security",
+        "image": "https://d1abomko0vm8t1.cloudfront.net/article/images/740x500/dimg/cyber_security_5_dreamstime_1.jpg"
     },
     {
         "id": 6,
-        "title": "Bootstraps",
-        "image": "https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png"
+        "title": "Gaming",
+        "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2021/07/01091502/abstract_digital-gamepad-sl-800x450.jpg"
     }
 ]

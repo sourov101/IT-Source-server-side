@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "title": "C ",
+        "title": "Web development",
         "price": 109.95,
-        "description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.",
-        "category": "CSE",
-        "image": "https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png",
+        "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. ",
+        "category": "ICT",
+        "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -13,11 +13,11 @@
     },
     {
         "id": 2,
-        "title": "C++ ",
+        "title": "spreadsheet",
         "price": 22.3,
-        "description": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible. Our C++ programming tutorial will guide you to learn C++ programming one step at a time.",
-        "category": "CSE",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGzKIagW3sbCBaZOWOw5z77jvfqVbFTNFWs8BwB259vCHB7DQVhpaBQdn98X5kq6_Cl8&usqp=CAU",
+        "description": "A spreadsheet is a computer application for computation, organization, analysis and storage of data in tabular form. Spreadsheets were developed as computerized analogs of paper accounting worksheets. The program operates on data entered in cells of a table. Each cell may contain either numeric or text data, or the results of formulas that automatically calculate and display a value based on the contents of other cells. The term spreadsheet may also refer to one such electronic document.",
+        "category": "ICT",
+        "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -25,11 +25,11 @@
     },
     {
         "id": 3,
-        "title": "Python",
+        "title": "Database",
         "price": 55.99,
-        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.",
-        "category": "CSE",
-        "image": "http://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png",
+        "description": "This article is about the computing concept. For instances of the general concept, see Lists of databases. An SQL select statement and its result In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage, query languages, security and privacy of sensitive data, and distributed computing issues, including supporting concurrent access and fault tolerance. ",
+        "category": "ICT",
+        "image": "https://www.openlogic.com/sites/default/files/styles/social_preview_image/public/image/2020-07/image-blog-sql-database.jpg?itok=fM0y3SPe",
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -37,11 +37,11 @@
     },
     {
         "id": 4,
-        "title": "React",
+        "title": "Internet communications",
         "price": 15.99,
         "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug.",
-        "category": "CSE",
-        "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+        "category": "ICT",
+        "image": "https://img.freepik.com/free-vector/internet-communication_24877-51932.jpg?w=2000",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -49,11 +49,11 @@
     },
     {
         "id": 5,
-        "title": "JavaScript",
+        "title": "Cyber security",
         "price": 695,
-        "description": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
-        "category": "CSE",
-        "image": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+        "description": "Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyber threats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems. A strong cybersecurity strategy can provide a good security posture against malicious attacks designed to access, alter, delete, destroy or extort an organization's or user's systems and sensitive data. Cybersecurity is also instrumental in preventing attacks that aim to disable or disrupt a system's or device's operations.",
+        "category": "ICT",
+        "image": "https://d1abomko0vm8t1.cloudfront.net/article/images/740x500/dimg/cyber_security_5_dreamstime_1.jpg",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -61,11 +61,11 @@
     },
     {
         "id": 6,
-        "title": "Bootstraps",
+        "title": "Gaming",
         "price": 168,
-        "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. ",
-        "category": "CSE",
-        "image": "https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png",
+        "description": "The ICT Gaming Essentials course focuses on fundamentals of interactive computer game creation. Students will Learn about the design process for creating a gaming program, including criteria and constraint identification, content research and storyboard creation Study computer programming concepts that are essential to game development, including program flow modeling, program code creation, and result evaluation and modification practices.",
+        "category": "ICT",
+        "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2021/07/01091502/abstract_digital-gamepad-sl-800x450.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70
